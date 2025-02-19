@@ -1,47 +1,40 @@
 {
   "settings": {
     "maxNotificationsStack": 3,
-    "defaultDuration": 5000,
+    "defaultDuration": 8000,
     "position": "top-right"
   },
   "notifications": [
     {
-      "id": "update-2024-02-19",
-      "type": "update",
-      "title": "Mise à jour importante",
-      "content": "Une nouvelle version du loader BO6 est disponible",
-      "targeting": {
-        "categories": ["bo6"],
-        "loaders": ["loader1"],
-        "conditions": {
-          "minVersion": "1.0.0",
-          "maxVersion": "2.0.0"
-        }
-      },
+      "id": "news-1",
+      "type": "news",
+      "title": "Nouveau Produit !",
+      "content": "Découvrez notre nouveau cheat pour Black Ops 6 !",
       "timing": {
         "startDate": "2024-02-19T00:00:00Z",
         "endDate": "2024-03-19T00:00:00Z",
         "displayDuration": 8000
       },
       "action": {
-        "type": "download",
-        "label": "Mettre à jour",
-        "loaderId": "loader1"
+        "type": "website",
+        "label": "En savoir plus",
+        "url": "https://votre-site.com/nouveau-produit"
       }
     },
     {
-      "id": "promo-discord",
+      "id": "promo-1",
       "type": "promo",
-      "title": "Rejoignez notre Discord !",
-      "content": "Accédez à du contenu exclusif et à l'aide de la communauté",
+      "title": "Offre Spéciale !",
+      "content": "-50% sur tous les produits pendant 24h !",
       "timing": {
-        "startDate": "2024-02-01T00:00:00Z",
-        "endDate": "2024-12-31T23:59:59Z",
-        "displayDuration": 5000
+        "startDate": "2024-02-20T00:00:00Z",
+        "endDate": "2024-02-21T00:00:00Z",
+        "displayDuration": 10000
       },
       "action": {
-        "type": "discord",
-        "label": "Rejoindre"
+        "type": "website",
+        "label": "Voir l'offre",
+        "url": "https://votre-site.com/promo"
       }
     }
   ]
