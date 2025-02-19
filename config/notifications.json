@@ -3,10 +3,7 @@
     "maxStack": 1,
     "defaultDuration": 5000,
     "position": "top",
-    "animation": {
-      "duration": 300,
-      "swipeThreshold": 50
-    }
+    "swipeThreshold": 50
   },
   "notifications": [
     {
@@ -19,10 +16,6 @@
         "startDate": "2024-02-01T00:00:00Z",
         "endDate": "2026-12-31T23:59:59Z",
         "displayDuration": 8000
-      },
-      "style": {
-        "backgroundColor": "rgba(18, 18, 18, 0.95)",
-        "accentColor": "#2563eb"
       },
       "action": {
         "type": "website",
