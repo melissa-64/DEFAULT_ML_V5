@@ -3,8 +3,8 @@
     {
       "id": "notif1",
       "type": "announcement",
-      "title": "Nouvelle mise à jour !",
-      "message": "Découvrez notre nouvelle version avec des fonctionnalités améliorées.",
+      "title": "IRIS IS NOW EVOLVING !",
+      "message": "Discover our new MUTLILOADER experience with awesome features !.",
       "startDate": "2025-02-15T00:00:00Z",
       "endDate": "2025-03-27T23:59:59Z",
       "displayDuration": 5000,
@@ -13,8 +13,8 @@
     {
       "id": "notif2",
       "type": "discount",
-      "title": "Promotion exceptionnelle",
-      "message": "Bénéficiez d'une réduction de 20% sur tous nos produits !",
+      "title": "SEASON 2 DISCOUNT",
+      "message": "GET 20% DISCOUNT ON ALL PRODUCTS !",
       "startDate": "2025-02-01T00:00:00Z",
       "endDate": "2025-03-07T23:59:59Z",
       "displayDuration": 7000,
