@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "maxNotificationsStack": 3,
+    "defaultDuration": 5000,
+    "position": "top-right"
+  },
+  "notifications": [
+    {
+      "id": "update-2024-02-19",
+      "type": "update",
+      "title": "Mise à jour importante",
+      "content": "Une nouvelle version du loader BO6 est disponible",
+      "targeting": {
+        "categories": ["bo6"],
+        "loaders": ["loader1"],
+        "conditions": {
+          "minVersion": "1.0.0",
+          "maxVersion": "2.0.0"
+        }
+      },
+      "timing": {
+        "startDate": "2024-02-19T00:00:00Z",
+        "endDate": "2024-03-19T00:00:00Z",
+        "displayDuration": 8000
+      },
+      "action": {
+        "type": "download",
+        "label": "Mettre à jour",
+        "loaderId": "loader1"
+      }
+    },
+    {
+      "id": "promo-discord",
+      "type": "promo",
+      "title": "Rejoignez notre Discord !",
+      "content": "Accédez à du contenu exclusif et à l'aide de la communauté",
+      "timing": {
+        "startDate": "2024-02-01T00:00:00Z",
+        "endDate": "2024-12-31T23:59:59Z",
+        "displayDuration": 5000
+      },
+      "action": {
+        "type": "discord",
+        "label": "Rejoindre"
+      }
+    }
+  ]
+}
