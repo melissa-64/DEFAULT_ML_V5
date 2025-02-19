@@ -11,8 +11,8 @@
       "title": "Nouveau Produit !",
       "content": "Découvrez notre nouveau cheat pour Black Ops 6 !",
       "timing": {
-        "startDate": "2024-02-19T00:00:00Z",
-        "endDate": "2024-03-19T00:00:00Z",
+        "startDate": "2024-02-01T00:00:00Z",
+        "endDate": "2026-12-31T23:59:59Z",
         "displayDuration": 8000
       },
       "action": {
@@ -27,8 +27,8 @@
       "title": "Offre Spéciale !",
       "content": "-50% sur tous les produits pendant 24h !",
       "timing": {
-        "startDate": "2024-02-20T00:00:00Z",
-        "endDate": "2024-02-21T00:00:00Z",
+        "startDate": "2024-02-01T00:00:00Z",
+        "endDate": "2026-12-31T23:59:59Z",
         "displayDuration": 10000
       },
       "action": {
