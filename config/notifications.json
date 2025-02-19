@@ -2,12 +2,17 @@
   "settings": {
     "maxStack": 1,
     "defaultDuration": 5000,
-    "position": "top"
+    "position": "top",
+    "animation": {
+      "duration": 300,
+      "swipeThreshold": 50
+    }
   },
   "notifications": [
     {
       "id": "news-1",
       "type": "news",
+      "priority": 1,
       "title": "Nouveau Produit les bg",
       "content": "Découvrez notre nouveau cheat pour Black Ops 6 !",
       "timing": {
@@ -15,26 +20,14 @@
         "endDate": "2026-12-31T23:59:59Z",
         "displayDuration": 8000
       },
+      "style": {
+        "backgroundColor": "rgba(18, 18, 18, 0.95)",
+        "accentColor": "#2563eb"
+      },
       "action": {
         "type": "website",
         "label": "En savoir plus",
         "url": "https://votre-site.com/nouveau-produit"
-      }
-    },
-    {
-      "id": "promo-1",
-      "type": "promo",
-      "title": "Offre Spéciale !",
-      "content": "-50% sur tous les produits pendant 24h !",
-      "timing": {
-        "startDate": "2024-02-01T00:00:00Z",
-        "endDate": "2026-12-31T23:59:59Z",
-        "displayDuration": 10000
-      },
-      "action": {
-        "type": "website",
-        "label": "Voir l'offre",
-        "url": "https://votre-site.com/promo"
       }
     }
   ]
