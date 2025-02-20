@@ -4,7 +4,7 @@
       "id": "notif1",
       "type": "announcement",
       "title": "IRIS IS NOW EVOLVING !",
-      "message": "Discover our new MUTLILOADER experience with awesome features !.",
+      "message": "Discover our new MUTLILOADER experience with awesome features !",
       "startDate": "2025-02-15T00:00:00Z",
       "endDate": "2025-03-27T23:59:59Z",
       "displayDuration": 5000,
@@ -18,7 +18,11 @@
       "startDate": "2025-02-01T00:00:00Z",
       "endDate": "2025-03-07T23:59:59Z",
       "displayDuration": 7000,
-      "priority": "normal"
+      "priority": "normal",
+      "cta": {
+        "text": "PURCHASE",
+        "url": "https://iriscorp.mysellauth.com/product/force-save-tool-instant-camos-on-all-guns"
+      }
     }
   ]
 }
