@@ -20,8 +20,24 @@
       "displayDuration": 7000,
       "priority": "normal",
       "cta": {
-        "text": "PURCHASE",
-        "url": "https://iriscorp.mysellauth.com/product/force-save-tool-instant-camos-on-all-guns"
+        "text": "GET DISCOUNT",
+        "url": "https://iriscorp.mysellauth.com/product/camos-services",
+        "action": null
+      }
+    },
+    {
+      "id": "notif3",
+      "type": "announcement",
+      "title": "NEW FEATURES AVAILABLE",
+      "message": "Check out our latest features in the dashboard!",
+      "startDate": "2025-02-10T00:00:00Z",
+      "endDate": "2025-03-10T23:59:59Z",
+      "displayDuration": 6000,
+      "priority": "normal",
+      "cta": {
+        "text": "EXPLORE NOW",
+        "url": "/dashboard/features",
+        "action": "openFeatureGuide"
       }
     }
   ]
