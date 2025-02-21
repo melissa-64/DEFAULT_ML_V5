@@ -8,10 +8,7 @@
       "startDate": "2025-02-15T00:00:00Z",
       "endDate": "2025-03-27T23:59:59Z",
       "displayDuration": 5000,
-      "priority": "high",
-      "analytics": {
-        "ctaClicks": 0
-      }
+      "priority": "high"
     },
     {
       "id": "notif2",
@@ -25,19 +22,11 @@
       "cta": {
         "primary": {
           "text": "GET DISCOUNT",
-          "url": "https://iriscorp.mysellauth.com/product/camos-services",
-          "action": null
+          "url": "https://iriscorp.mysellauth.com/product/camos-services"
         },
         "secondary": {
           "text": "LEARN MORE",
-          "url": "/discount-details",
-          "action": "openDiscountDetails"
-        }
-      },
-      "analytics": {
-        "ctaClicks": {
-          "primary": 0,
-          "secondary": 0
+          "url": "/discount-details"
         }
       }
     }
