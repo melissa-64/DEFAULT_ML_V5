@@ -8,7 +8,10 @@
       "startDate": "2025-02-15T00:00:00Z",
       "endDate": "2025-03-27T23:59:59Z",
       "displayDuration": 5000,
-      "priority": "high"
+      "priority": "high",
+      "analytics": {
+        "ctaClicks": 0
+      }
     },
     {
       "id": "notif2",
@@ -20,24 +23,22 @@
       "displayDuration": 7000,
       "priority": "normal",
       "cta": {
-        "text": "GET DISCOUNT",
-        "url": "https://iriscorp.mysellauth.com/product/camos-services",
-        "action": null
-      }
-    },
-    {
-      "id": "notif3",
-      "type": "announcement",
-      "title": "NEW FEATURES AVAILABLE",
-      "message": "Check out our latest features in the dashboard!",
-      "startDate": "2025-02-10T00:00:00Z",
-      "endDate": "2025-03-10T23:59:59Z",
-      "displayDuration": 6000,
-      "priority": "normal",
-      "cta": {
-        "text": "EXPLORE NOW",
-        "url": "/dashboard/features",
-        "action": "openFeatureGuide"
+        "primary": {
+          "text": "GET DISCOUNT",
+          "url": "https://iriscorp.mysellauth.com/product/camos-services",
+          "action": null
+        },
+        "secondary": {
+          "text": "LEARN MORE",
+          "url": "/discount-details",
+          "action": "openDiscountDetails"
+        }
+      },
+      "analytics": {
+        "ctaClicks": {
+          "primary": 0,
+          "secondary": 0
+        }
       }
     }
   ]
