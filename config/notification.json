@@ -30,5 +30,15 @@
         }
       }
     }
+    {
+      "id": "notif3",
+      "type": "warning",
+      "title": "BE CAREFUL EVERYONE !",
+      "message": "We are aware of the ongoing issues with MW3 tools ! Please stay off them",
+      "startDate": "2025-02-15T00:00:00Z",
+      "endDate": "2025-03-27T23:59:59Z",
+      "displayDuration": 5000,
+      "priority": "normal"
+    },
   ]
 }
