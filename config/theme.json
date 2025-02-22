@@ -31,7 +31,7 @@
             "shadow": {
                 "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
                 "medium": "0 4px 8px rgba(0, 0, 0, 0.3)",
-                "large": "0 8px 16px rgba(0, 0, 0, 0.4)"
+                "large": "0 0 16px rgba(0, 0, 0, 0.4), inset 0 0 16px rgba(20, 20, 20, 0.5)"
             },
             "blur": {
                 "small": "4px",
