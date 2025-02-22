@@ -3,7 +3,7 @@
         "core": {
             "primary": "#9200FF",
             "secondary": "#202020",
-            "accent": "#9200DD",
+            "accent": "#007bff",
             "scrollbar": "#9200FF"
         },
         "text": {
