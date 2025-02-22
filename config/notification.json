@@ -4,7 +4,7 @@
       "id": "notif1",
       "type": "announcement",
       "title": "IRIS IS NOW EVOLVING !",
-      "message": "Discover our new MUTLILOADER experience with awesome features ! You can also find our best product via our website.",
+      "message": "Discover our new MUTLILOADER experience with awesome features ! \nYou can also find our best product via our website.",
       "startDate": "2025-02-15T00:00:00Z",
       "endDate": "2025-03-27T23:59:59Z",
       "displayDuration": 5000,
