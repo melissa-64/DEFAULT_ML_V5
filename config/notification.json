@@ -29,7 +29,7 @@
           "url": "https://iriscorp.mysellauth.com/"
         }
       }
-    }
+    },
     {
       "id": "notif3",
       "type": "warning",
@@ -39,6 +39,6 @@
       "endDate": "2025-03-27T23:59:59Z",
       "displayDuration": 5000,
       "priority": "normal"
-    },
+    }
   ]
 }
