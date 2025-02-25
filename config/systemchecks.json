@@ -25,7 +25,7 @@
     {
       "key": "Windows11_24H2",
       "expectedValue": true,
-      "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
+      "tutorialLink": "https://www.microsoft.com/en-us/software-download/windows10"
     },
     {
       "key": "WindowsDefenderDisabled",
