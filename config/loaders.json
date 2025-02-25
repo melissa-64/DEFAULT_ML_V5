@@ -7,7 +7,8 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Auth_NB.exe",
-            "status": "online"
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-unlock-all-spoofer"
         },
         {
             "id": "PROGRESS",
@@ -15,23 +16,8 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PG_1.exe",
-            "status": "online"
-        },
-        {
-            "id": "LDV2",
-            "name": "BO6 EXTERNAL LDV2",
-            "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LDV2_UPT.exe",
-            "status": "online"
-        },
-        {
-            "id": "AFK BOT",
-            "name": "BO6 AFK BOT",
-            "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/afkbot.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISAFKBOT.exe",
-            "status": "online"
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
         },
         {
             "id": "VALORANT EXTERNAL",
@@ -39,7 +25,8 @@
             "categoryId": "valorant",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT1.1.exe",
-            "status": "updating"
+            "status": "updating",
+            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
             "id": "FORTNITE EXTERNAL",
@@ -47,7 +34,8 @@
             "categoryId": "fortnite",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
-            "status": "online"
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/fortnite-external-chair"
         },
         {
             "id": "PC OPTIMIZER",
@@ -55,23 +43,8 @@
             "categoryId": "others",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
-            "status": "online"
-        },
-        {
-            "id": "BO6 FORCE SAVER",
-            "name": "BO6 FORCE SAVER",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORCE_SAVER_TOOL.exe",
             "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORCE_SAVE.png"
-        },
-        {
-            "id": "BO6 ZENITH INTERNAL",
-            "name": "BO6 ZENITH INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/ZENITH__UNBRANDED.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png"
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
         }
     ]
 }
