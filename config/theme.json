@@ -17,7 +17,7 @@
         "background": {
             "main": "#121212",
             "image": ""
-        }
+        },
         "fixed": {
             "titleBar": "#121212"
         },
