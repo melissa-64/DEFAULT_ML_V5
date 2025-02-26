@@ -16,7 +16,7 @@
         },
         "background": {
             "main": "#121212",
-            "image": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/BLACK_IRIS_LOGO.png"
+            "customImage": ""
         },
         "fixed": {
             "titleBar": "#121212"
