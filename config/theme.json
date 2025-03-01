@@ -39,6 +39,9 @@
                 "medium": "8px",
                 "large": "12px"
             }
+        },
+        "settings": {
+            "defaultListView": false
         }
     }
 }
