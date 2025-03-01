@@ -41,7 +41,7 @@
             }
         },
         "settings": {
-            "defaultListView": false
+            "defaultListView": true
         }
     }
 }
