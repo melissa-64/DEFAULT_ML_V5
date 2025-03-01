@@ -1,23 +1,23 @@
 {
     "theme": {
         "core": {
-            "primary": "#9200FF",
+            "primary": "#FF0000",
             "secondary": "#202020",
-            "accent": "#9200FF",
-            "scrollbar": "#9200FF"
+            "accent": "#FF0000",
+            "scrollbar": "#FF0000"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#D0D0D0"
         },
         "button": {
-            "category": "#9200FF",
-            "action": "#9200FF"
+            "category": "#FF0000",
+            "action": "#FF0000"
         },
         "background": {
             "main": "#121212",
-            "custom-image": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/bg1.png",
-            "background-anim": false
+            "custom-image": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/BLACK_IRIS_LOGO.png",
+            "background-anim": true
         },
         "fixed": {
             "titleBar": "#121212"
