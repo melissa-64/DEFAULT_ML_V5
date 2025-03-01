@@ -15,8 +15,7 @@
             "action": "#9200FF"
         },
         "background": {
-            "main": "#121212",
-            "customImage": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/bg1.png"
+            "main": "#121212"
         },
         "fixed": {
             "titleBar": "#121212"
