@@ -15,7 +15,9 @@
             "action": "#9200FF"
         },
         "background": {
-            "main": "#121212"
+            "main": "#121212",
+            "custom-image": "",
+            "background-anim": true
         },
         "fixed": {
             "titleBar": "#121212"
