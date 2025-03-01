@@ -16,7 +16,7 @@
         },
         "background": {
             "main": "#121212",
-            "custom-image": "",
+            "custom-image": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/bg1.png",
             "background-anim": false
         },
         "fixed": {
