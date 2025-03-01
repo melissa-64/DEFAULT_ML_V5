@@ -11,7 +11,7 @@
       "priority": "high"
     },
     {
-      "id": "notif2",
+      "id": "notif3",
       "type": "discount",
       "title": "SEASON 2 DISCOUNT",
       "message": "GET 20% DISCOUNT ON ALL PRODUCTS !",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "id": "notif3",
+      "id": "notif5",
       "type": "warning",
       "title": "BE CAREFUL EVERYONE !",
       "message": "We are aware of the ongoing issues with MW3 tools ! Please stay off them",
