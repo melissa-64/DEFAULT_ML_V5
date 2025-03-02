@@ -15,17 +15,17 @@
         {
             "key": "HyperVDisabled",
             "expectedValue": true,
-            "fixable": true
+            "fixable": false
         },
         {
             "key": "MemoryIntegrityDisabled",
             "expectedValue": true,
-            "fixable": true
+            "fixable": false
         },
         {
             "key": "DriverBlocklistDisabled",
             "expectedValue": true,
-            "fixable": true
+            "fixable": false
         },
         {
             "key": "Windows11_24H2",
@@ -41,7 +41,7 @@
         {
             "key": "RiotVanguardInactive",
             "expectedValue": true,
-            "fixable": true
+            "fixable": false
         }
     ]
 }
