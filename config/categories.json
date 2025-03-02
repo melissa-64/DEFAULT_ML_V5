@@ -1,12 +1,12 @@
 {
   "categories": [
     {
-      "id": "mw2",
-      "name": "MW2",
+      "id": "bo6",
+      "name": "Black Ops 6",
       "brandColors": {
-        "primary": "#7fca2a"
+        "primary": "#f96800"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IMG_0263.png",
       "isDefault": true
     },
     {
@@ -19,12 +19,12 @@
       "isDefault": true
     },
     {
-      "id": "bo6",
-      "name": "Black Ops 6",
+      "id": "mw2",
+      "name": "MW2",
       "brandColors": {
-        "primary": "#f96800"
+        "primary": "#7fca2a"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IMG_0263.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
       "isDefault": true
     },
     {
