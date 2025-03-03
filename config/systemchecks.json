@@ -40,7 +40,7 @@
         },
         {
             "key": "RiotVanguardInactive",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true
         }
     ]
