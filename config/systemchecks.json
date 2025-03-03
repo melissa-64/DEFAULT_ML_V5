@@ -14,7 +14,7 @@
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true
         },
         {
@@ -29,7 +29,7 @@
         },
         {
             "key": "Windows11_24H2",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": false,
             "tutorialLink": "https://www.microsoft.com/fr-fr/software-download/windows10"
         },
