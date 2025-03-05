@@ -28,6 +28,15 @@
       "isDefault": true
     },
     {
+      "id": "mw19",
+      "name": "MW19",
+      "brandColors": {
+        "primary": "#47a6ff"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "isDefault": true
+    },
+    {
       "id": "fortnite",
       "name": "Fortnite",
       "brandColors": {
@@ -81,6 +90,78 @@
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
       "isDefault": true
     },
+    {
+      "id": "r6",
+      "name": "Rainbow 6",
+      "brandColors": {
+        "primary": "#f5f5f3"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "hll",
+      "name": "Hell Let Loose",
+      "brandColors": {
+        "primary": "#c8c5c1"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "dl",
+      "name": "Daylight",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "df",
+      "name": "Delta Force",
+      "brandColors": {
+        "primary": "#0ff796"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "fp",
+      "name": "FragPunk",
+      "brandColors": {
+        "primary": "#abfb4e"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "bf",
+      "name": "Battlefield",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "mr",
+      "name": "Marvel Rivals",
+      "brandColors": {
+        "primary": "#f9f9f9"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
+    {
+      "id": "sd",
+      "name": "Spectre Divide",
+      "brandColors": {
+        "primary": "#ffcb00"
+      },
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/plus-symbole-noir.png",
+      "isDefault": true
+    }
     {
       "id": "others",
       "name": "Others",
