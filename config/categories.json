@@ -15,16 +15,16 @@
       "brandColors": {
         "primary": "#d80000"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW3.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw3_ml_icon_v1.png",
       "isDefault": true
     },
     {
       "id": "mw2",
       "name": "MW2",
       "brandColors": {
-        "primary": "#7fca2a"
+        "primary": "#7ec92e"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw2_ml_icon_v1.png",
       "isDefault": true
     },
     {
@@ -33,7 +33,7 @@
       "brandColors": {
         "primary": "#47a6ff"
       },
-      "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
+      "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw19_ml_icon_v1.png",
       "isDefault": true
     },
     {
