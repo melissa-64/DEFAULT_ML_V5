@@ -1,5 +1,5 @@
 {
-    "enabled": false,
+    "enabled": true,
     "checks": [
         {
             "key": "VirtualizationEnabled",
@@ -44,7 +44,7 @@
             "key": "WindowsDefenderDisabled",
             "expectedValue": false,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "RiotVanguardInactive",
