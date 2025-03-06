@@ -24,9 +24,9 @@
         },
         "border": {
             "radius": {
-                "small": "12px",
-                "medium": "20px",
-                "large": "25px"
+                "small": "6px",
+                "medium": "8px",
+                "large": "12px"
             }
         },
         "effects": {
@@ -36,9 +36,9 @@
                 "large": "0 20px 40px -15px rgba(0, 0, 0, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
             },
             "blur": {
-                "small": "10px",
-                "medium": "15px",
-                "large": "20px"
+                "small": "4px",
+                "medium": "8px",
+                "large": "12px"
             }
         },
         "settings": {
