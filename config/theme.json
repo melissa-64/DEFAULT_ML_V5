@@ -42,7 +42,8 @@
             }
         },
         "settings": {
-            "defaultListView": true
+            "defaultListView": true,
+            "defaultLanguage": "en"
         }
     }
 }
