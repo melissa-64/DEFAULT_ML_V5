@@ -28,6 +28,51 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
         },
         {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "cs2",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "rust",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "apex",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "mr",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "others",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
+            "status": "online",
+            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
             "id": "BO6 UNLOCK ALL",
             "name": "BO6 UNLOCK ALL",
             "categoryId": "bo6",
