@@ -18,7 +18,7 @@
             "main": "#121212",
             "custom-image": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/lavba-flowing-through-dark-rocky-terrain-with-larg-2025-02-02-07-20-31-utc.jpeg",
             "logoImage": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/BLACK_IRIS_LOGO.png",
-            "background-anim": "snow"
+            "background-anim": "true"
         },
         "fixed": {
             "titleBar": "#121212"
