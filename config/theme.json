@@ -18,7 +18,7 @@
             "main": "#121212",
             "custom-image": "https://cdn.discordapp.com/attachments/1154784459338559559/1348254445099683990/lavba-flowing-through-dark-rocky-terrain-with-larg-2025-02-02-07-20-31-utc.jpeg?ex=67cecb4d&is=67cd79cd&hm=9074e61b5ef538a11b6535e0a960cb6c3090520ba3b470acf262d72f54694755&",
             "logoImage": "https://cdn.discordapp.com/attachments/1154798311623106630/1288465385468727297/BLACK_IRIS_LOGO.png?ex=67ce2726&is=67ccd5a6&hm=ebce790792426ba7b3c4b29de4a56b48ef6031312cd1ea95803142e360eb11c9&",
-            "background-anim": "neural"
+            "background-anim": "particles"
         },
         "fixed": {
             "titleBar": "#121212"
