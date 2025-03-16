@@ -1,45 +1,45 @@
 {
     "theme": {
         "core": {
-            "primary": "#1E88E5",
-            "secondary": "#0D47A1",
-            "accent": "#00B0FF",
-            "scrollbar": "#1976D2"
+            "primary": "#00F3FF",
+            "secondary": "#FF00E4",
+            "accent": "#FFF000",
+            "scrollbar": "#00F3FF"
         },
         "text": {
             "primary": "#FFFFFF",
-            "secondary": "#B3E5FC"
+            "secondary": "#FC00FF"
         },
         "button": {
-            "category": "#1565C0",
-            "action": "#29B6F6"
+            "category": "#00F3FF",
+            "action": "#FC00FF"
         },
         "background": {
-            "main": "#0A1929",
+            "main": "#080415",
             "custom-image": "",
             "logoImage": "",
-            "background-anim": "snow"
+            "background-anim": "particles"
         },
         "fixed": {
-            "titleBar": "#051426"
+            "titleBar": "#050310"
         },
         "border": {
             "radius": {
-                "small": "4px",
-                "medium": "8px",
-                "large": "16px"
+                "small": "0px",
+                "medium": "2px",
+                "large": "4px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 2px 4px rgba(0, 43, 86, 0.3)",
-                "medium": "inset 0 2px 5px rgba(0, 21, 42, 0.8)",
-                "large": "0 20px 40px -15px rgba(0, 12, 36, 0.8), 0 0 25px rgba(0, 120, 255, 0.2), inset 0 2px 20px rgba(30, 144, 255, 0.1), inset 0 -15px 30px rgba(0, 0, 0, 0.3)"
+                "small": "0 0 4px rgba(0, 243, 255, 0.6)",
+                "medium": "0 0 8px rgba(252, 0, 255, 0.7), 0 0 15px rgba(252, 0, 255, 0.4)",
+                "large": "0 0 30px rgba(0, 243, 255, 0.6), 0 0 60px rgba(255, 0, 228, 0.3), inset 0 0 10px rgba(0, 243, 255, 0.6)"
             },
             "blur": {
-                "small": "6px",
-                "medium": "12px",
-                "large": "20px"
+                "small": "3px",
+                "medium": "10px",
+                "large": "25px"
             }
         },
         "settings": {
