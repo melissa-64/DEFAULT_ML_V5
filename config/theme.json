@@ -1,45 +1,45 @@
 {
     "theme": {
         "core": {
-            "primary": "#39FF14",
-            "secondary": "#FE01B1",
-            "accent": "#FFFF33",
-            "scrollbar": "#39FF14"
+            "primary": "#C62828",
+            "secondary": "#8E0000",
+            "accent": "#FF5252",
+            "scrollbar": "#B71C1C"
         },
         "text": {
-            "primary": "#FFFFFF",
-            "secondary": "#01FFFF"
+            "primary": "#FFEBEE",
+            "secondary": "#FFCDD2"
         },
         "button": {
-            "category": "#FE01B1",
-            "action": "#39FF14"
+            "category": "#D32F2F",
+            "action": "#F44336"
         },
         "background": {
-            "main": "#0C0C0C",
+            "main": "#1A0000",
             "custom-image": "",
             "logoImage": "",
-            "background-anim": "particles"
+            "background-anim": "stars"
         },
         "fixed": {
-            "titleBar": "#080808"
+            "titleBar": "#120000"
         },
         "border": {
             "radius": {
-                "small": "3px",
-                "medium": "6px",
-                "large": "9px"
+                "small": "2px",
+                "medium": "5px",
+                "large": "10px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 0 5px rgba(57, 255, 20, 0.7)",
-                "medium": "0 0 15px rgba(254, 1, 177, 0.7), 0 0 5px rgba(57, 255, 20, 0.7)",
-                "large": "0 0 30px rgba(57, 255, 20, 0.8), 0 0 60px rgba(254, 1, 177, 0.5), 0 0 90px rgba(255, 255, 51, 0.3)"
+                "small": "0 2px 4px rgba(198, 40, 40, 0.3)",
+                "medium": "inset 0 2px 8px rgba(183, 28, 28, 0.5)",
+                "large": "0 15px 35px -10px rgba(142, 0, 0, 0.7), 0 0 20px rgba(255, 82, 82, 0.2), inset 0 2px 15px rgba(255, 205, 210, 0.05)"
             },
             "blur": {
-                "small": "3px",
+                "small": "6px",
                 "medium": "12px",
-                "large": "35px"
+                "large": "20px"
             }
         },
         "settings": {
