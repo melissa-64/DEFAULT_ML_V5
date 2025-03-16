@@ -17,7 +17,7 @@
         "background": {
             "main": "#121212",
             "custom-image": "",
-            "logoImage": "",
+            "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png",
             "background-anim": "snow"
         },
         "fixed": {
