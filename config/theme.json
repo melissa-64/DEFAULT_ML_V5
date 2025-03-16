@@ -16,9 +16,9 @@
         },
         "background": {
             "main": "#121212",
-            "custom-image": "",
+            "custom-image": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png",
             "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png",
-            "background-anim": "snow"
+            "background-anim": "particles"
         },
         "fixed": {
             "titleBar": "#121212"
