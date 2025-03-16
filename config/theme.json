@@ -1,49 +1,49 @@
 {
     "theme": {
         "core": {
-            "primary": "#00F3FF",
-            "secondary": "#FF00E4",
-            "accent": "#FFF000",
-            "scrollbar": "#00F3FF"
+            "primary": "#4CAF50",
+            "secondary": "#8BC34A",
+            "accent": "#FF9800",
+            "scrollbar": "#81C784"
         },
         "text": {
-            "primary": "#FFFFFF",
-            "secondary": "#FC00FF"
+            "primary": "#33691E",
+            "secondary": "#558B2F"
         },
         "button": {
-            "category": "#00F3FF",
-            "action": "#FC00FF"
+            "category": "#689F38",
+            "action": "#FFA726"
         },
         "background": {
-            "main": "#080415",
+            "main": "#E8F5E9",
             "custom-image": "",
             "logoImage": "",
             "background-anim": "particles"
         },
         "fixed": {
-            "titleBar": "#050310"
+            "titleBar": "#C8E6C9"
         },
         "border": {
             "radius": {
-                "small": "0px",
-                "medium": "2px",
-                "large": "4px"
+                "small": "8px",
+                "medium": "12px",
+                "large": "20px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 0 4px rgba(0, 243, 255, 0.6)",
-                "medium": "0 0 8px rgba(252, 0, 255, 0.7), 0 0 15px rgba(252, 0, 255, 0.4)",
-                "large": "0 0 30px rgba(0, 243, 255, 0.6), 0 0 60px rgba(255, 0, 228, 0.3), inset 0 0 10px rgba(0, 243, 255, 0.6)"
+                "small": "0 2px 4px rgba(76, 175, 80, 0.2)",
+                "medium": "inset 0 2px 5px rgba(46, 125, 50, 0.2)",
+                "large": "0 10px 30px rgba(46, 125, 50, 0.15), 0 0 15px rgba(139, 195, 74, 0.1), inset 0 2px 10px rgba(220, 237, 200, 0.5)"
             },
             "blur": {
-                "small": "3px",
+                "small": "5px",
                 "medium": "10px",
-                "large": "25px"
+                "large": "15px"
             }
         },
         "settings": {
-            "defaultListView": false,
+            "defaultListView": true,
             "defaultLanguage": "fr"
         }
     }
