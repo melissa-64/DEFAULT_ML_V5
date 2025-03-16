@@ -1,49 +1,49 @@
 {
     "theme": {
         "core": {
-            "primary": "#4CAF50",
-            "secondary": "#8BC34A",
-            "accent": "#FF9800",
-            "scrollbar": "#81C784"
+            "primary": "#000000",
+            "secondary": "#333333",
+            "accent": "#666666",
+            "scrollbar": "#999999"
         },
         "text": {
-            "primary": "#33691E",
-            "secondary": "#558B2F"
+            "primary": "#FFFFFF",
+            "secondary": "#CCCCCC"
         },
         "button": {
-            "category": "#689F38",
-            "action": "#FFA726"
+            "category": "#333333",
+            "action": "#000000"
         },
         "background": {
-            "main": "#E8F5E9",
+            "main": "#0F0F0F",
             "custom-image": "",
             "logoImage": "",
             "background-anim": "particles"
         },
         "fixed": {
-            "titleBar": "#C8E6C9"
+            "titleBar": "#000000"
         },
         "border": {
             "radius": {
-                "small": "8px",
-                "medium": "12px",
-                "large": "20px"
+                "small": "0px",
+                "medium": "0px",
+                "large": "0px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 2px 4px rgba(76, 175, 80, 0.2)",
-                "medium": "inset 0 2px 5px rgba(46, 125, 50, 0.2)",
-                "large": "0 10px 30px rgba(46, 125, 50, 0.15), 0 0 15px rgba(139, 195, 74, 0.1), inset 0 2px 10px rgba(220, 237, 200, 0.5)"
+                "small": "none",
+                "medium": "none",
+                "large": "0 5px 15px rgba(0, 0, 0, 0.3)"
             },
             "blur": {
-                "small": "5px",
-                "medium": "10px",
-                "large": "15px"
+                "small": "0px",
+                "medium": "0px",
+                "large": "5px"
             }
         },
         "settings": {
-            "defaultListView": true,
+            "defaultListView": false,
             "defaultLanguage": "fr"
         }
     }
