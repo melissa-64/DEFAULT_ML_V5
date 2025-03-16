@@ -1,45 +1,45 @@
 {
     "theme": {
         "core": {
-            "primary": "#FF0000",
-            "secondary": "#202020",
-            "accent": "#FF0000",
-            "scrollbar": "#FF0000"
+            "primary": "#1E88E5",
+            "secondary": "#0D47A1",
+            "accent": "#00B0FF",
+            "scrollbar": "#1976D2"
         },
         "text": {
             "primary": "#FFFFFF",
-            "secondary": "#D0D0D0"
+            "secondary": "#B3E5FC"
         },
         "button": {
-            "category": "#FF0000",
-            "action": "#FF0000"
+            "category": "#1565C0",
+            "action": "#29B6F6"
         },
         "background": {
-            "main": "#121212",
+            "main": "#0A1929",
             "custom-image": "",
-            "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png",
-            "background-anim": "stars"
+            "logoImage": "",
+            "background-anim": "snow"
         },
         "fixed": {
-            "titleBar": "#121212"
+            "titleBar": "#051426"
         },
         "border": {
             "radius": {
-                "small": "6px",
+                "small": "4px",
                 "medium": "8px",
-                "large": "12px"
+                "large": "16px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
-                "medium": "inset 0 2px 5px rgba(50, 50, 50, 0.6)",
-                "large": "0 20px 40px -15px rgba(0, 0, 0, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
+                "small": "0 2px 4px rgba(0, 43, 86, 0.3)",
+                "medium": "inset 0 2px 5px rgba(0, 21, 42, 0.8)",
+                "large": "0 20px 40px -15px rgba(0, 12, 36, 0.8), 0 0 25px rgba(0, 120, 255, 0.2), inset 0 2px 20px rgba(30, 144, 255, 0.1), inset 0 -15px 30px rgba(0, 0, 0, 0.3)"
             },
             "blur": {
-                "small": "4px",
-                "medium": "8px",
-                "large": "12px"
+                "small": "6px",
+                "medium": "12px",
+                "large": "20px"
             }
         },
         "settings": {
