@@ -43,7 +43,7 @@
             }
         },
         "settings": {
-            "defaultListView": false,
+            "defaultListView": true,
             "defaultLanguage": "fr"
         }
     }
