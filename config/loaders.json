@@ -10,6 +10,15 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
+            "id": "FIVEM EXTERNAL",
+            "name": "FIVEM EXTERNAL CHAIR",
+            "categoryId": "fivem",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Loader_LD.exe",
+            "status": "offline",
+            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+        },
+        {
             "id": "MW2 EXTERNAL",
             "name": "WM2 EXTERNAL CHAIR",
             "categoryId": "mw2",
