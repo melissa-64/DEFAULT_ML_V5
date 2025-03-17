@@ -1,45 +1,45 @@
 {
     "theme": {
         "core": {
-            "primary": "#C62828",
-            "secondary": "#8E0000",
-            "accent": "#FF5252",
-            "scrollbar": "#B71C1C"
+            "primary": "#F73F52",
+            "secondary": "#FECEA8",
+            "accent": "#2EC4B6",
+            "scrollbar": "#99E1D9"
         },
         "text": {
-            "primary": "#FFEBEE",
-            "secondary": "#FFCDD2"
+            "primary": "#FFFFFF",
+            "secondary": "#FECEA8"
         },
         "button": {
-            "category": "#D32F2F",
-            "action": "#F44336"
+            "category": "#F73F52",
+            "action": "#2EC4B6"
         },
         "background": {
-            "main": "#1A0000",
+            "main": "#011627",
             "custom-image": "",
             "logoImage": "",
-            "background-anim": "particles"
+            "background-anim": "snow"
         },
         "fixed": {
-            "titleBar": "#120000"
+            "titleBar": "#010E1A"
         },
         "border": {
             "radius": {
-                "small": "6px",
-                "medium": "8px",
-                "large": "12px"
+                "small": "5px",
+                "medium": "10px",
+                "large": "15px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 2px 4px rgba(198, 40, 40, 0.3)",
-                "medium": "inset 0 2px 8px rgba(183, 28, 28, 0.5)",
-                "large": "0 15px 35px -10px rgba(142, 0, 0, 0.7), 0 0 20px rgba(255, 82, 82, 0.2), inset 0 2px 15px rgba(255, 205, 210, 0.05)"
+                "small": "3px 3px 0px #F73F52",
+                "medium": "5px 5px 0px #2EC4B6",
+                "large": "8px 8px 0px #F73F52, 16px 16px 0px #2EC4B6"
             },
             "blur": {
-                "small": "6px",
-                "medium": "12px",
-                "large": "20px"
+                "small": "0px",
+                "medium": "2px",
+                "large": "5px"
             }
         },
         "settings": {
