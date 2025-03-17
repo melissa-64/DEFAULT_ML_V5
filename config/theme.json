@@ -18,7 +18,7 @@
             "main": "#1A0000",
             "custom-image": "",
             "logoImage": "",
-            "background-anim": "particles"
+            "background-anim": "snow"
         },
         "fixed": {
             "titleBar": "#120000"
