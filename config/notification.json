@@ -19,6 +19,16 @@
             "endDate": "2025-03-20T16:59:20Z",
             "displayDuration": 5000,
             "priority": "high"
+            "cta": {
+                "primary": {
+                    "text": "GET DISCOUNT",
+                    "url": "https://iriscorp.mysellauth.com/product/camos-services"
+                },
+                "secondary": {
+                    "text": "LEARN MORE",
+                    "url": "https://iriscorp.mysellauth.com/"
+                }
+            }
         },
         {
             "id": "notif3",
