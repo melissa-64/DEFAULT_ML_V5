@@ -17,8 +17,8 @@
         "background": {
             "main": "#0D1D36",
             "custom-image": "",
-            "logoImage": "",
-            "background-anim": "none"
+            "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/ML_V5_LOGO-removebg-preview.png",
+            "background-anim": "particles"
         },
         "fixed": {
             "titleBar": "#091221"
