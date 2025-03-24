@@ -17,13 +17,13 @@
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
         {
             "key": "MemoryIntegrityDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
