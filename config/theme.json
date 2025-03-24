@@ -1,50 +1,50 @@
 {
     "theme": {
         "core": {
-            "primary": "#1976D2",
-            "secondary": "#0D47A1",
-            "accent": "#42A5F5",
-            "scrollbar": "#2196F3"
+            "primary": "#FF0000",
+            "secondary": "#202020",
+            "accent": "#FF0000",
+            "scrollbar": "#FF0000"
         },
         "text": {
-            "primary": "#E3F2FD",
-            "secondary": "#BBDEFB"
+            "primary": "#FFFFFF",
+            "secondary": "#D0D0D0"
         },
         "button": {
-            "category": "#1565C0",
-            "action": "#2196F3"
+            "category": "#FF0000",
+            "action": "#FF0000"
         },
         "background": {
-            "main": "#0D1D36",
+            "main": "#121212",
             "custom-image": "",
-            "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/ML_LOGO.png",
-            "background-anim": "particles"
+            "logoImage": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BLACK_IRIS_LOGO.png",
+            "background-anim": "stars"
         },
         "fixed": {
-            "titleBar": "#091221"
+            "titleBar": "#121212"
         },
         "border": {
             "radius": {
-                "small": "0px",
-                "medium": "5px",
-                "large": "10px"
+                "small": "6px",
+                "medium": "8px",
+                "large": "12px"
             }
         },
         "effects": {
             "shadow": {
-                "small": "0 2px 4px rgba(13, 71, 161, 0.3)",
-                "medium": "inset 0 2px 5px rgba(13, 71, 161, 0.4)",
-                "large": "0 15px 35px -10px rgba(13, 71, 161, 0.5), 0 0 20px rgba(66, 165, 245, 0.2), inset 0 2px 15px rgba(227, 242, 253, 0.1)"
+                "small": "0 2px 4px rgba(0, 0, 0, 0.2)",
+                "medium": "inset 0 2px 5px rgba(50, 50, 50, 0.6)",
+                "large": "0 20px 40px -15px rgba(0, 0, 0, 0.6), 0 0 25px rgba(0, 0, 0, 0.3), inset 0 2px 20px rgba(255, 255, 255, 0.07), inset 0 -15px 30px rgba(0, 0, 0, 0.25)"
             },
             "blur": {
-                "small": "5px",
-                "medium": "10px",
-                "large": "15px"
+                "small": "4px",
+                "medium": "8px",
+                "large": "12px"
             }
         },
         "settings": {
             "defaultListView": false,
-            "defaultLanguage": "en"
+            "defaultLanguage": "fr"
         }
     }
 }
