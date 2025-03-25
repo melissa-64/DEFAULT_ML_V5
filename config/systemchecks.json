@@ -29,7 +29,7 @@
         },
         {
             "key": "DriverBlocklistDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
