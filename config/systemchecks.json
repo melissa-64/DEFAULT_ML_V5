@@ -17,7 +17,7 @@
         },
         {
             "key": "HyperVDisabled",
-            "expectedValue": false,
+            "expectedValue": true,
             "fixable": true,
             "enabled": true
         },
@@ -44,13 +44,13 @@
             "key": "WindowsDefenderDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "RiotVanguardInactive",
             "expectedValue": false,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         }
     ]
 }
