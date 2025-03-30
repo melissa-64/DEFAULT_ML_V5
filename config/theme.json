@@ -2,7 +2,7 @@
     "theme": {
         "core": {
             "primary": "#252525",
-            "secondary": "#202020",
+            "secondary": "#FF0000",
             "accent": "#181818",
             "scrollbar": "#181818"
         },
