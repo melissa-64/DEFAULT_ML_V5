@@ -1,26 +1,26 @@
 {
     "theme": {
         "core": {
-            "primary": "#FF0000",
-            "secondary": "#a20000",
-            "border": "#FFFFFF",
+            "primary": "#9200FF",
+            "secondary": "#5200ff",
+            "border": "#5200ff",
             "divider": "#252525",
-            "scrollbar": "#FF00FF"
+            "scrollbar": "#9200FF"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#D0D0D0"
         },
         "button": {
-            "category": "#0000FF",
-            "action": "#0000FF"
+            "category": "#6800ff",
+            "action": "#6800ff"
         },
         "background": {
-            "main": "#121212",
-            "overlay": "rgba(0,255,0,0.6)",
+            "main": "#050505",
+            "overlay": "rgba(0,0,0,0.6)",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
-            "background-anim": "stars"
+            "background-anim": "particles"
         },
         "border": {
             "radius": {
