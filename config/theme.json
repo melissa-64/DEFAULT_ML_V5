@@ -1,9 +1,9 @@
 {
     "theme": {
         "core": {
-            "primary": "#252525",
+            "primary": "#FF0000",
             "secondary": "#252525",
-            "accent": "#FF0000",
+            "accent": "#252525",
             "scrollbar": "#181818"
         },
         "text": {
