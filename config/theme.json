@@ -12,10 +12,10 @@
         },
         "button": {
             "category": "#181818",
-            "action": "#FF0000"
+            "action": "#181818"
         },
         "background": {
-            "main": "#121212",
+            "main": "#FF0000",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
             "background-anim": "stars"
