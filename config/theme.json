@@ -11,8 +11,8 @@
             "secondary": "#D0D0D0"
         },
         "button": {
-            "category": "#FF0000",
-            "action": "#181818"
+            "category": "#181818",
+            "action": "#FF0000"
         },
         "background": {
             "main": "#121212",
