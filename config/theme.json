@@ -21,7 +21,7 @@
             "background-anim": "stars"
         },
         "fixed": {
-            "titleBar": "#FF0000"
+            "titleBar": "#181818"
         },
         "border": {
             "radius": {
