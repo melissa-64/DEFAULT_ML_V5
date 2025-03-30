@@ -15,13 +15,13 @@
             "action": "#181818"
         },
         "background": {
-            "main": "#FF0000",
+            "main": "#121212",
             "custom-image": "",
             "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
             "background-anim": "stars"
         },
         "fixed": {
-            "titleBar": "#121212"
+            "titleBar": "#FF0000"
         },
         "border": {
             "radius": {
