@@ -2,9 +2,9 @@
     "loaders": [
         {
             "id": "Loader 1",
-            "name": "VALORANT EXTERNAL CHAIR",
+            "name": "Loader 1",
             "categoryId": "valorant",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ml_v5_wallp_n1.png",
+            "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
@@ -13,16 +13,16 @@
             "id": "Loader 2",
             "name": "Loader 2",
             "categoryId": "mw2",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ml_v5_wallp_n1.png",
+            "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "offline",
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
         },
         {
             "id": "Loader 3",
-            "name": "WM2 EXTERNAL CHAIR",
+            "name": "Loader 3",
             "categoryId": "cs2",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ml_v5_wallp_n1.png",
+            "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
             "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
