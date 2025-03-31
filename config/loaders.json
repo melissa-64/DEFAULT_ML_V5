@@ -3,7 +3,7 @@
         {
             "id": "Loader 1",
             "name": "Loader 1",
-            "categoryId": "valorant",
+            "categoryId": "r6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
@@ -39,7 +39,7 @@
         {
             "id": "Loader 5",
             "name": "Loader 5",
-            "categoryId": "valorant",
+            "categoryId": "hll",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -48,7 +48,7 @@
         {
             "id": "Loader 6",
             "name": "Loader 6",
-            "categoryId": "valorant",
+            "categoryId": "dl",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -57,7 +57,7 @@
         {
             "id": "Loader 7",
             "name": "Loader 7",
-            "categoryId": "valorant",
+            "categoryId": "df",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
