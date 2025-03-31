@@ -8,8 +8,8 @@
             "scrollbar": "#FF0000"
         },
         "text": {
-            "primary": "#3d3d3d",
-            "secondary": "#D0D0D0"
+            "primary": "#ffffff",
+            "secondary": "#3d3d3d"
         },
         "button": {
             "category": "#ff2b00",
