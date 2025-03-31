@@ -12,7 +12,7 @@
         {
             "id": "Loader 2",
             "name": "Loader 2",
-            "categoryId": "fragpunk",
+            "categoryId": "fp",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -30,7 +30,7 @@
         {
             "id": "Loader 4",
             "name": "Loader 4",
-            "categoryId": "H1z1",
+            "categoryId": "h1z1",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
