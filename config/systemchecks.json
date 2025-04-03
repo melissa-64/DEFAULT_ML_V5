@@ -51,5 +51,6 @@
             "fixable": true,
             "enabled": true
         }
-    ]
+    ],
+    "enabled": false
 }
