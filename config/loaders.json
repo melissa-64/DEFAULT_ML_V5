@@ -3,16 +3,16 @@
         {
             "id": "Loader 1",
             "name": "Loader 1",
-            "categoryId": "r6",
+            "categoryId": "others",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://ravencheats.cc/product/ravenware-externalspoofer"
         },
         {
             "id": "Loader 2",
             "name": "Loader 2",
-            "categoryId": "r6",
+            "categoryId": "fivem",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -21,7 +21,7 @@
         {
             "id": "Loader 2",
             "name": "Loader 2",
-            "categoryId": "fp",
+            "categoryId": "apex",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -30,7 +30,7 @@
         {
             "id": "Loader 3",
             "name": "Loader 3",
-            "categoryId": "valorant",
+            "categoryId": "fortnite",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -39,7 +39,7 @@
         {
             "id": "Loader 4",
             "name": "Loader 4",
-            "categoryId": "h1z1",
+            "categoryId": "fortnite",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -48,7 +48,7 @@
         {
             "id": "Loader 5",
             "name": "Loader 5",
-            "categoryId": "hll",
+            "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -57,7 +57,7 @@
         {
             "id": "Loader 6",
             "name": "Loader 6",
-            "categoryId": "dl",
+            "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -66,7 +66,7 @@
         {
             "id": "Loader 7",
             "name": "Loader 7",
-            "categoryId": "df",
+            "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
@@ -75,34 +75,34 @@
         {
             "id": "Loader 8",
             "name": "Loader 8",
-            "categoryId": "valorant",
+            "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://ravencheats.cc/product/zenith-bo6-force-save"
         },
         {
             "id": "Loader 9",
             "name": "Loader 9",
-            "categoryId": "valorant",
+            "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://ravencheats.cc/product/zenith-bo6-force-save"
         },
         {
             "id": "Loader 10",
             "name": "Loader 10",
-            "categoryId": "valorant",
+            "categoryId": "bo6",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/valorant-external-chair"
+            "productUrl": "https://ravencheats.cc/product/zenith-bo6-force-save"
         },
         {
             "id": "Loader 2",
             "name": "Loader 2",
-            "categoryId": "mw2",
+            "categoryId": "apex",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "offline",
@@ -111,7 +111,7 @@
         {
             "id": "Loader 3",
             "name": "Loader 3",
-            "categoryId": "cs2",
+            "categoryId": "rust",
             "imageUrl": "",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
             "status": "updating",
