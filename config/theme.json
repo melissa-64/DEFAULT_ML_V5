@@ -1,30 +1,30 @@
-{
+ {
     "theme": {
         "core": {
-            "primary": "#570fff",
-            "secondary": "#3c0ab2",
-            "border": "#570fff",
+            "primary": "#303030",
+            "secondary": "#252525",
+            "border": "#252525",
             "divider": "#252525",
-            "scrollbar": "#570fff"
+            "scrollbar": "#303030"
         },
         "text": {
-            "primary": "#FFFFFF",
-            "secondary": "#bbbbbb"
+            "primary": "#ffffff",
+            "secondary": "#e8e8e8"
         },
         "button": {
-            "category": "#570fff",
-            "action": "#570fff"
+            "category": "#252525",
+            "action": "#252525"
         },
         "background": {
             "main": "#050505",
             "overlay": "rgba(0,0,0,0.5)",
-            "custom-image": "https://cloud.anewvision.fr/1183938967024959659/raven/public.png",
-            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/raven_logo.gif",
-            "background-anim": "particles"
+            "custom-image": "",
+            "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
+            "background-anim": "none"
         },
         "border": {
             "radius": {
-                "small": "4px",
+                "small": "6px",
                 "medium": "8px",
                 "large": "12px"
             }
@@ -43,7 +43,7 @@
         },
         "settings": {
             "defaultListView": false,
-            "defaultLanguage": "en"
+            "defaultLanguage": "fr"
         }
     }
 }
