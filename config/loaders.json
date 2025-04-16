@@ -18,6 +18,14 @@
             "status": "updating"
         },
         {
+            "id": "Loader 3",
+            "name": "Loader 3",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.4.exe",
+            "status": "updating"
+        },
+        {
             "id": "Loader 2",
             "name": "Loader 2",
             "categoryId": "apex",
