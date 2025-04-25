@@ -1,7 +1,7 @@
 {
     "theme": {
         "core": {
-            "primary": "#ff0000",
+            "primary": "#ffff00",
             "secondary": "#cccc00",
             "border": "#ff0000",
             "divider": "#252525",
