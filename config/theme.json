@@ -1,9 +1,9 @@
 {
     "theme": {
         "core": {
-            "primary": "#303030",
-            "secondary": "#252525",
-            "border": "#252525",
+            "primary": "#ff0000",
+            "secondary": "#cccc00",
+            "border": "#ff0000",
             "divider": "#252525",
             "scrollbar": "#303030"
         },
@@ -12,15 +12,15 @@
             "secondary": "#e8e8e8"
         },
         "button": {
-            "category": "#252525",
-            "action": "#252525"
+            "category": "#ff0000",
+            "action": "#ff0000"
         },
         "background": {
             "main": "#050505",
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
-            "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
-            "background-anim": "none"
+            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/IMG_3328.png",
+            "background-anim": "snow"
         },
         "border": {
             "radius": {
