@@ -1,32 +1,32 @@
 {
     "theme": {
         "core": {
-            "primary": "#ffff00",
-            "secondary": "#cccc00",
-            "border": "#ffff00",
+            "primary": "#FF0000",
+            "secondary": "#b30000",
+            "border": "#FF0000",
             "divider": "#252525",
-            "scrollbar": "#303030"
+            "scrollbar": "#FFFFFF"
         },
         "text": {
-            "primary": "#ffffff",
-            "secondary": "#e8e8e8"
+            "primary": "#FFFFFF",
+            "secondary": "#d9d9d9"
         },
         "button": {
-            "category": "#ffff00",
-            "action": "#ffff00"
+            "category": "#FF0000",
+            "action": "#FF0000"
         },
         "background": {
             "main": "#050505",
-            "overlay": "rgba(0,0,0,0.5)",
+            "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
-            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/IMG_3328.png",
+            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/BLACK_IRIS_LOGO.png",
             "background-anim": "snow"
         },
         "border": {
             "radius": {
-                "small": "6px",
+                "small": "5px",
                 "medium": "8px",
-                "large": "12px"
+                "large": "14px"
             }
         },
         "effects": {
@@ -43,7 +43,7 @@
         },
         "settings": {
             "defaultListView": false,
-            "defaultLanguage": "fr"
+            "defaultLanguage": "en"
         }
     }
 }
