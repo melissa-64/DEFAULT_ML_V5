@@ -42,9 +42,9 @@
             }
         },
         "font": {
-            "family": "Orbitron",
-            "url": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap",
-            "scale": 1.0,
+            "family": "New Rocker",
+            "url": "https://fonts.googleapis.com/css2?family=New+Rocker&display=swap",
+            "scale": 1.4,
             "weights": "400,500,700"
         },
         "settings": {
