@@ -1,25 +1,25 @@
 {
     "theme": {
         "core": {
-            "primary": "#FF0000",
-            "secondary": "#b30000",
-            "border": "#FF0000",
+            "primary": "#303030",
+            "secondary": "#151515",
+            "border": "#202020",
             "divider": "#252525",
-            "scrollbar": "#FFFFFF"
+            "scrollbar": "#303030"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#d9d9d9"
         },
         "button": {
-            "category": "#FF0000",
-            "action": "#FF0000"
+            "category": "#303030",
+            "action": "#303030"
         },
         "background": {
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
-            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/BLACK_IRIS_LOGO.png",
+            "logoImage": "",
             "background-anim": "snow"
         },
         "border": {
