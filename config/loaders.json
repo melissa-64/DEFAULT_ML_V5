@@ -1,102 +1,27 @@
-  {
-      "loaders": [
-          {
-              "id": "Crusader R6",
-              "name": "Crusader R6",
-              "categoryId": "r6",
-              "contentType": "web_downloadable",
-              "downloadUrl": "https://uniqueloader.com/r6s/",
-              "version": "1.3",
-              "status": "online",
-              "imageUrl": "",
-              "productUrl": "",
-              "instructions": "# 🛡️ Crusader R6 - Guide Complet d'Installation\n\n## ⚠️ Prérequis
-  Système\n\n**Configuration minimale requise :**\n- **Windows 10/11** (64-bit uniquement)\n- **.NET Framework
-  4.8** ou supérieur\n- **Visual C++ Redistributable 2019-2022**\n- **Droits administrateur** obligatoires\n- **8
-  GB RAM** minimum\n- **Connexion Internet** stable\n\n### Vérifications préalables\n\n1. Désactiver
-  **temporairement** Windows Defender\n2. Fermer **tous** les logiciels antivirus\n3. Vérifier que Rainbow Six
-  Siege est installé via Steam/Uplay\n4. S'assurer d'avoir les **droits administrateur**\n\n---\n\n## 📥
-  Installation Détaillée\n\n### Étape 1: Téléchargement\n\n1. Cliquer sur le **bouton de téléchargement**
-  ci-dessus\n2. Vous serez redirigé vers [uniqueloader.com](https://uniqueloader.com/r6s/)\n3. Créer un compte si
-  nécessaire\n4. Télécharger l'archive `CrusaderR6_v1.3.zip`\n\n### Étape 2: Extraction\n\n⚠️ **IMPORTANT** : Ne
-  pas extraire dans Program Files !\n\n1. **Créer** un nouveau dossier : `C:\\Games\\CrusaderR6\\`\n2. **Clic
-  droit** sur l'archive téléchargée\n3. **Extraire tout** dans le dossier créé\n4. **Vérifier** que vous avez ces
-  fichiers :\n   - `CrusaderR6.exe`\n   - `config.ini`\n   - `dependencies/` (dossier)\n   - `README.txt`\n\n###
-  Étape 3: Configuration\n\n#### Configuration automatique (recommandée)\n\n1. **Double-clic** sur
-  `CrusaderR6.exe`\n2. Cliquer sur **\"Auto Config\"**\n3. Laisser le programme détecter Rainbow Six Siege\n4.
-  **Redémarrer** le loader une fois terminé\n\n#### Configuration manuelle (avancée)\n\nOuvrir `config.ini` avec
-  Notepad++ ou un éditeur de texte :\n\n```\n[General]\nAutoStart=true\nMinimizeToTray=false\nCheckUpdates=true\n\n
-  [Hotkeys]\nToggleESP=F1\nToggleAimbot=F2\nPanicKey=F12\nMenuKey=INSERT\n\n[Features]\nEnableESP=true\nEnableAimbo
-  t=false\nEnableRadar=true\nSafeMode=true\n```\n\n---\n\n## 🎮 Utilisation\n\n### Démarrage\n\n1. **Lancer Rainbow
-   Six Siege** et aller jusqu'au menu principal\n2. **Exécuter** `CrusaderR6.exe` **EN TANT QU'ADMINISTRATEUR**\n3.
-   **Attendre** le message \"Ready for injection\"\n4. **Cliquer** sur le bouton **\"Inject\"**\n5. **Attendre** la
-   confirmation d'injection réussie\n\n### Contrôles par défaut\n\n- `INSERT` : **Menu Principal** - Ouvre/ferme le
-   menu de configuration\n- `F1` : **Toggle ESP** - Active/désactive la vision à travers les murs\n- `F2` :
-  **Toggle Aimbot** - Active/désactive l'assistance de visée\n- `F3` : **Toggle Radar** - Active/désactive le mini
-  radar\n- `F12` : **Panic Key** - Désactive tout immédiatement\n- `CTRL+ALT+X` : **Exit** - Ferme le cheat
-  proprement\n\n---\n\n## ⚙️ Fonctionnalités Avancées\n\n### ESP (Extra Sensory Perception)\n\n**Options
-  disponibles :**\n\n- ✅ **Player ESP** : Voir les ennemis à travers les murs\n- ✅ **Health Bars** : Barres de
-  vie des joueurs\n- ✅ **Distance Display** : Affichage de la distance\n- ✅ **Weapon ESP** : Type d'arme
-  équipée\n- ✅ **Gadget ESP** : Gadgets et explosifs\n- ✅ **Defuser ESP** : Localisation du défuseur\n\n###
-  Aimbot\n\n**Paramètres configurables :**\n\n- **FOV (Field of View)** : 30-180 degrés\n- **Smooth** : 1-10
-  (fluidité de l'aim)\n- **Target Priority** : Tête > Corps > Jambes\n- **Visibility Check** : Vérification de
-  visibilité\n- **Auto Fire** : Tir automatique (risqué)\n\n---\n\n## 🚨 Sécurité et Avertissements\n\n### ⚠️
-  RISQUES IMPORTANTS\n\n**UTILISEZ TOUJOURS UN COMPTE SECONDAIRE !**\n\n- **Ubisoft** détecte activement les
-  cheats\n- **BattlEye** est particulièrement efficace\n- **Ban permanent** possible sur le compte principal\n-
-  **Hardware ID ban** dans certains cas extrêmes\n\n### Mesures de sécurité recommandées\n\n1. **Compte
-  secondaire** obligatoire pour les tests\n2. **Proxy/VPN** recommandé pour masquer l'IP\n3. **Pas de
-  streaming/recording** pendant l'utilisation\n4. **Éviter** les parties classées\n5. **Jouer naturellement** - pas
-   de scores impossibles\n6. **Pause régulière** - ne pas jouer 24h/24\n\n---\n\n## 🔧 Résolution de
-  Problèmes\n\n### Erreurs courantes\n\n#### \"Injection Failed - Access Denied\"\n\n**Solutions :**\n\n1.
-  **Relancer** en tant qu'administrateur\n2. **Désactiver** Windows Defender temps réel\n3. **Vérifier** que R6
-  n'est pas en mode fullscreen exclusif\n4. **Redémarrer** le PC si nécessaire\n\n#### \"Game not
-  detected\"\n\n**Solutions :**\n\n1. **Vérifier** le chemin dans config.ini\n2. **Lancer R6** jusqu'au menu
-  principal\n3. **Attendre** 30 secondes après le lancement de R6\n4. **Réinstaller** Visual C++
-  Redistributable\n\n---\n\n## 📞 Support et Communauté\n\n### Liens officiels\n\n- 🌐 **Site Web** :
-  [uniqueloader.com](https://uniqueloader.com)\n- 💬 **Discord** :
-  [discord.gg/crusader](https://discord.gg/crusader)\n- 📺 **YouTube** : [Tutoriels
-  vidéo](https://youtube.com/crusaderr6)\n- 📧 **Email** : support@uniqueloader.com\n\n### FAQ rapide\n\n**Q: Le
-  cheat fonctionne-t-il en matchmaking classé ?**\nR: Déconseillé - risque de ban élevé\n\n**Q: Puis-je utiliser
-  d'autres cheats simultanément ?**\nR: Non - risque de conflit et crash\n\n**Q: Le cheat est-il détectable ?**\nR:
-   Aucun cheat n'est 100% indétectable\n\n---\n\n*⚠️ **Disclaimer** : Ce logiciel est fourni à des fins éducatives
-  uniquement. L'utilisation de cheats peut violer les conditions d'utilisation du jeu et entraîner des sanctions.
-  Utilisez à vos propres risques.*"
-          },
-          {
-              "id": "Inferno R6",
-              "name": "Inferno R6",
-              "categoryId": "r6",
-              "contentType": "document",
-              "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/0D_-_Product_Instructions_2.pdf",
-              "status": "online",
-              "imageUrl": "",
-              "productUrl": "",
-              "instructions": "# 🔥 Inferno R6 - Guide d'Installation Express\n\n## 📋 Vue d'ensemble\n\n**Inferno
-  R6** est un cheat **discret** et **performant** spécialement conçu pour Rainbow Six Siege. Cette version se
-  présente sous forme de **documentation PDF** pour une approche plus sûre.\n\n---\n\n## 📥 Accès aux
-  Instructions\n\n### Méthode principale\n\n1. **Cliquer** sur le bouton de téléchargement ci-dessus\n2. Vous
-  accéderez directement au **PDF d'instructions**\n3. **Télécharger** le document sur votre PC\n4. **Ouvrir** avec
-  Adobe Reader ou votre lecteur PDF\n\n### Informations du document\n\n- **Nom du fichier** :
-  `0D_-_Product_Instructions_2.pdf`\n- **Hébergement** : Cloud sécurisé\n- **Taille** : ~2-3 MB\n- **Pages** :
-  Instructions complètes illustrées\n\n---\n\n## 📖 Contenu du PDF\n\n### Sections principales\n\n1. **🔧 Prérequis
-   système**\n   - Configuration minimale\n   - Logiciels requis\n   - Paramètres Windows\n\n2. **📥 Installation
-  pas à pas**\n   - Téléchargement des fichiers\n   - Processus d'installation\n   - Configuration initiale\n\n3.
-  **🎮 Guide d'utilisation**\n   - Interface du cheat\n   - Contrôles et raccourcis\n   - Réglages
-  recommandés\n\n4. **⚙️ Fonctionnalités**\n   - **ESP** : Vision à travers les murs\n   - **Aimbot** : Assistance
-  de visée\n   - **Misc** : Fonctions diverses\n\n5. **🛡️ Sécurité**\n   - Mesures anti-détection\n   - Conseils
-  d'utilisation\n   - Gestion des risques\n\n---\n\n## 🚨 Points Importants\n\n### ⚠️ Avant de
-  commencer\n\n**OBLIGATOIRE** :\n- Lire **entièrement** le PDF avant installation\n- Utiliser un **compte
-  secondaire** pour les tests\n- **Sauvegarder** ses données importantes\n- **Fermer** tous les antivirus
-  temporairement\n\n### 🔒 Sécurité renforcée\n\nInferno R6 inclut :\n\n- ✅ **Protection anti-screenshot**\n- ✅
-  **Chiffrement des processus**\n- ✅ **Bypass BattlEye avancé**\n- ✅ **Détection d'intrusion**\n- ✅ **Mode
-  furtif**\n\n---\n\n## 🔄 Mise à jour automatique\n\nLe système se met à jour automatiquement :\n\n-
-  **Vérification** : Toutes les heures\n- **Téléchargement** : En arrière-plan\n- **Installation** : Redémarrage
-  automatique\n- **Rollback** : Possible en cas d'erreur\n\n---\n\n## 📞 Support Technique\n\n### En cas de
-  problème\n\n1. **Consulter** d'abord le PDF complet\n2. **Vérifier** la FAQ intégrée\n3. **Redémarrer** le
-  système\n4. **Contacter** le support si nécessaire\n\n### Canaux de support\n\n- 📧 **Email** : Via le formulaire
-   dans le PDF\n- 💬 **Discord** : Lien disponible dans le document\n- 🎫 **Ticket** : Système de support
-  intégré\n- ⏰ **Délai** : Réponse sous 24h\n\n---\n\n*📄 **Instructions complètes** disponibles dans le PDF -
-  Cliquez sur \"Télécharger\" pour accéder au guide détaillé avec captures d'écran.*"
-          }
-      ]
-  }
+{
+    "loaders": [
+        {
+            "id": "Crusader R6",
+            "name": "Crusader R6",
+            "categoryId": "r6",
+            "contentType": "web_downloadable",
+            "downloadUrl": "https://uniqueloader.com/r6s/",
+            "version": "1.3",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "# 🛡️ Crusader R6 - Guide Complet d'Installation\n\n## ⚠️ Prérequis\n  Système\n\n**Configuration minimale requise :**\n- **Windows 10/11** (64-bit uniquement)\n- **.NET Framework\n  4.8** ou supérieur\n- **Visual C++ Redistributable 2019-2022**\n- **Droits administrateur** obligatoires\n- **8\n  GB RAM** minimum\n- **Connexion Internet** stable\n\n### Vérifications préalables\n\n1. Désactiver\n  **temporairement** Windows Defender\n2. Fermer **tous** les logiciels antivirus\n3. Vérifier que Rainbow Six\n  Siege est installé via Steam/Uplay\n4. S'assurer d'avoir les **droits administrateur**\n\n---\n\n## 📥\n  Installation Détaillée\n\n### Étape 1: Téléchargement\n\n1. Cliquer sur le **bouton de téléchargement**\n  ci-dessus\n2. Vous serez redirigé vers [uniqueloader.com](https://uniqueloader.com/r6s/)\n3. Créer un compte si\n  nécessaire\n4. Télécharger l'archive `CrusaderR6_v1.3.zip`\n\n### Étape 2: Extraction\n\n⚠️ **IMPORTANT** : Ne\n  pas extraire dans Program Files !\n\n1. **Créer** un nouveau dossier : `C:\\\\Games\\\\CrusaderR6\\\\`\n2. **Clic\n  droit** sur l'archive téléchargée\n3. **Extraire tout** dans le dossier créé\n4. **Vérifier** que vous avez ces\n  fichiers :\n   - `CrusaderR6.exe`\n   - `config.ini`\n   - `dependencies/` (dossier)\n   - `README.txt`\n\n###\n  Étape 3: Configuration\n\n#### Configuration automatique (recommandée)\n\n1. **Double-clic** sur\n  `CrusaderR6.exe`\n2. Cliquer sur **\"Auto Config\"**\n3. Laisser le programme détecter Rainbow Six Siege\n4.\n  **Redémarrer** le loader une fois terminé\n\n#### Configuration manuelle (avancée)\n\nOuvrir `config.ini` avec\n  Notepad++ ou un éditeur de texte :\n\n```\n[General]\nAutoStart=true\nMinimizeToTray=false\nCheckUpdates=true\n\n\n  [Hotkeys]\nToggleESP=F1\nToggleAimbot=F2\nPanicKey=F12\nMenuKey=INSERT\n\n[Features]\nEnableESP=true\nEnableAimbo\n  t=false\nEnableRadar=true\nSafeMode=true\n```\n\n---\n\n## 🎮 Utilisation\n\n### Démarrage\n\n1. **Lancer Rainbow\n   Six Siege** et aller jusqu'au menu principal\n2. **Exécuter** `CrusaderR6.exe` **EN TANT QU'ADMINISTRATEUR**\n3.\n   **Attendre** le message \"Ready for injection\"\n4. **Cliquer** sur le bouton **\"Inject\"**\n5. **Attendre** la\n   confirmation d'injection réussie\n\n### Contrôles par défaut\n\n- `INSERT` : **Menu Principal** - Ouvre/ferme le\n   menu de configuration\n- `F1` : **Toggle ESP** - Active/désactive la vision à travers les murs\n- `F2` :\n  **Toggle Aimbot** - Active/désactive l'assistance de visée\n- `F3` : **Toggle Radar** - Active/désactive le mini\n  radar\n- `F12` : **Panic Key** - Désactive tout immédiatement\n- `CTRL+ALT+X` : **Exit** - Ferme le cheat\n  proprement\n\n---\n\n## ⚙️ Fonctionnalités Avancées\n\n### ESP (Extra Sensory Perception)\n\n**Options\n  disponibles :**\n\n- ✅ **Player ESP** : Voir les ennemis à travers les murs\n- ✅ **Health Bars** : Barres de\n  vie des joueurs\n- ✅ **Distance Display** : Affichage de la distance\n- ✅ **Weapon ESP** : Type d'arme\n  équipée\n- ✅ **Gadget ESP** : Gadgets et explosifs\n- ✅ **Defuser ESP** : Localisation du défuseur\n\n###\n  Aimbot\n\n**Paramètres configurables :**\n\n- **FOV (Field of View)** : 30-180 degrés\n- **Smooth** : 1-10\n  (fluidité de l'aim)\n- **Target Priority** : Tête > Corps > Jambes\n- **Visibility Check** : Vérification de\n  visibilité\n- **Auto Fire** : Tir automatique (risqué)\n\n---\n\n## 🚨 Sécurité et Avertissements\n\n### ⚠️\n  RISQUES IMPORTANTS\n\n**UTILISEZ TOUJOURS UN COMPTE SECONDAIRE !**\n\n- **Ubisoft** détecte activement les\n  cheats\n- **BattlEye** est particulièrement efficace\n- **Ban permanent** possible sur le compte principal\n-\n  **Hardware ID ban** dans certains cas extrêmes\n\n### Mesures de sécurité recommandées\n\n1. **Compte\n  secondaire** obligatoire pour les tests\n2. **Proxy/VPN** recommandé pour masquer l'IP\n3. **Pas de\n  streaming/recording** pendant l'utilisation\n4. **Éviter** les parties classées\n5. **Jouer naturellement** - pas\n   de scores impossibles\n6. **Pause régulière** - ne pas jouer 24h/24\n\n---\n\n## 🔧 Résolution de\n  Problèmes\n\n### Erreurs courantes\n\n#### \"Injection Failed - Access Denied\"\n\n**Solutions :**\n\n1.\n  **Relancer** en tant qu'administrateur\n2. **Désactiver** Windows Defender temps réel\n3. **Vérifier** que R6\n  n'est pas en mode fullscreen exclusif\n4. **Redémarrer** le PC si nécessaire\n\n#### \"Game not\n  detected\"\n\n**Solutions :**\n\n1. **Vérifier** le chemin dans config.ini\n2. **Lancer R6** jusqu'au menu\n  principal\n3. **Attendre** 30 secondes après le lancement de R6\n4. **Réinstaller** Visual C++\n  Redistributable\n\n---\n\n## 📞 Support et Communauté\n\n### Liens officiels\n\n- 🌐 **Site Web** :\n  [uniqueloader.com](https://uniqueloader.com)\n- 💬 **Discord** :\n  [discord.gg/crusader](https://discord.gg/crusader)\n- 📺 **YouTube** : [Tutoriels\n  vidéo](https://youtube.com/crusaderr6)\n- 📧 **Email** : support@uniqueloader.com\n\n### FAQ rapide\n\n**Q: Le\n  cheat fonctionne-t-il en matchmaking classé ?**\nR: Déconseillé - risque de ban élevé\n\n**Q: Puis-je utiliser\n  d'autres cheats simultanément ?**\nR: Non - risque de conflit et crash\n\n**Q: Le cheat est-il détectable ?**\nR:\n   Aucun cheat n'est 100% indétectable\n\n---\n\n*⚠️ **Disclaimer** : Ce logiciel est fourni à des fins éducatives\n  uniquement. L'utilisation de cheats peut violer les conditions d'utilisation du jeu et entraîner des sanctions.\n  Utilisez à vos propres risques.*"
+        },
+        {
+            "id": "Inferno R6",
+            "name": "Inferno R6",
+            "categoryId": "r6",
+            "contentType": "document",
+            "downloadUrl": "https://cloud.anewvision.fr/1141007976036053083/0D_-_Product_Instructions_2.pdf",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "# 🔥 Inferno R6 - Guide d'Installation Express\n\n## 📋 Vue d'ensemble\n\n**Inferno\n  R6** est un cheat **discret** et **performant** spécialement conçu pour Rainbow Six Siege. Cette version se\n  présente sous forme de **documentation PDF** pour une approche plus sûre.\n\n---\n\n## 📥 Accès aux\n  Instructions\n\n### Méthode principale\n\n1. **Cliquer** sur le bouton de téléchargement ci-dessus\n2. Vous\n  accéderez directement au **PDF d'instructions**\n3. **Télécharger** le document sur votre PC\n4. **Ouvrir** avec\n  Adobe Reader ou votre lecteur PDF\n\n### Informations du document\n\n- **Nom du fichier** :\n  `0D_-_Product_Instructions_2.pdf`\n- **Hébergement** : Cloud sécurisé\n- **Taille** : ~2-3 MB\n- **Pages** :\n  Instructions complètes illustrées\n\n---\n\n## 📖 Contenu du PDF\n\n### Sections principales\n\n1. **🔧 Prérequis\n   système**\n   - Configuration minimale\n   - Logiciels requis\n   - Paramètres Windows\n\n2. **📥 Installation\n  pas à pas**\n   - Téléchargement des fichiers\n   - Processus d'installation\n   - Configuration initiale\n\n3.\n  **🎮 Guide d'utilisation**\n   - Interface du cheat\n   - Contrôles et raccourcis\n   - Réglages\n  recommandés\n\n4. **⚙️ Fonctionnalités**\n   - **ESP** : Vision à travers les murs\n   - **Aimbot** : Assistance\n  de visée\n   - **Misc** : Fonctions diverses\n\n5. **🛡️ Sécurité**\n   - Mesures anti-détection\n   - Conseils\n  d'utilisation\n   - Gestion des risques\n\n---\n\n## 🚨 Points Importants\n\n### ⚠️ Avant de\n  commencer\n\n**OBLIGATOIRE** :\n- Lire **entièrement** le PDF avant installation\n- Utiliser un **compte\n  secondaire** pour les tests\n- **Sauvegarder** ses données importantes\n- **Fermer** tous les antivirus\n  temporairement\n\n### 🔒 Sécurité renforcée\n\nInferno R6 inclut :\n\n- ✅ **Protection anti-screenshot**\n- ✅\n  **Chiffrement des processus**\n- ✅ **Bypass BattlEye avancé**\n- ✅ **Détection d'intrusion**\n- ✅ **Mode\n  furtif**\n\n---\n\n## 🔄 Mise à jour automatique\n\nLe système se met à jour automatiquement :\n\n-\n  **Vérification** : Toutes les heures\n- **Téléchargement** : En arrière-plan\n- **Installation** : Redémarrage\n  automatique\n- **Rollback** : Possible en cas d'erreur\n\n---\n\n## 📞 Support Technique\n\n### En cas de\n  problème\n\n1. **Consulter** d'abord le PDF complet\n2. **Vérifier** la FAQ intégrée\n3. **Redémarrer** le\n  système\n4. **Contacter** le support si nécessaire\n\n### Canaux de support\n\n- 📧 **Email** : Via le formulaire\n   dans le PDF\n- 💬 **Discord** : Lien disponible dans le document\n- 🎫 **Ticket** : Système de support\n  intégré\n- ⏰ **Délai** : Réponse sous 24h\n\n---\n\n*📄 **Instructions complètes** disponibles dans le PDF -\n  Cliquez sur \"Télécharger\" pour accéder au guide détaillé avec captures d'écran.*"
+        }
+    ]
+}
