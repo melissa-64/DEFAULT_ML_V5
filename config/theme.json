@@ -1,25 +1,25 @@
 {
     "theme": {
         "core": {
-            "primary": "#303030",
-            "secondary": "#151515",
-            "border": "#202020",
+            "primary": "#FF0000",
+            "secondary": "#b30000",
+            "border": "#FF0000",
             "divider": "#252525",
-            "scrollbar": "#303030"
+            "scrollbar": "#FFFFFF"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#d9d9d9"
         },
         "button": {
-            "category": "#303030",
-            "action": "#303030"
+            "category": "#FF0000",
+            "action": "#FF0000"
         },
         "background": {
             "main": "#050505",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
-            "logoImage": "",
+            "logoImage": "https://api.cloud.anewvision.fr/1183938967024959659/BLACK_IRIS_LOGO.png",
             "background-anim": "snow"
         },
         "border": {
@@ -44,7 +44,7 @@
         "settings": {
             "defaultListView": false,
             "defaultLanguage": "en",
-            "appTitle": "IRIS CORP MULTILOADER 1.2.0.4"
+            "appTitle": "IRIS CORP LOADER"
         }
     }
 }
