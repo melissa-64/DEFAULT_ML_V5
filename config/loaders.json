@@ -68,7 +68,7 @@
                 "enabled": true,
                 "requirements": [
                     {
-                        "key": "WindowsDefender",
+                        "key": "DriverBlocklist",
                         "expectedState": false,
                         "fixable": true
                     },
@@ -78,9 +78,10 @@
                         "fixable": true
                     },
                     {
-                        "key": "DriverBlocklist",
+                        "key": "RiotVanguard",
                         "expectedState": false,
-                        "fixable": true
+                        "fixable": false,
+                        "tutorialLink": "https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-Uninstalling-Riot-Vanguard"
                     },
                     {
                         "key": "SecureBoot",
@@ -88,10 +89,15 @@
                         "fixable": true
                     },
                     {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
+                        "key": "Virtualization",
+                        "expectedState": true,
                         "fixable": false,
-                        "tutorialLink": "https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-Uninstalling-Riot-Vanguard"
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
                     }
                 ]
             }
