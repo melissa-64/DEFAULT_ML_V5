@@ -73,15 +73,14 @@
                         "fixable": true
                     },
                     {
-                        "key": "MemoryIntegrity",
+                        "key": "HyperV",
                         "expectedState": false,
                         "fixable": true
                     },
                     {
-                        "key": "RiotVanguard",
+                        "key": "MemoryIntegrity",
                         "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": "https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-Uninstalling-Riot-Vanguard"
+                        "fixable": true
                     },
                     {
                         "key": "SecureBoot",
