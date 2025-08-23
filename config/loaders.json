@@ -62,6 +62,7 @@
             "imageUrl": "",
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/bo6novaandua.exe",
             "status": "custom",
+            "contentType": "executable",
             "productUrl": "https://uniqueloader.com/r6s/",
             "instructions": "CRUSADER R6 INSTRUCTION :\r\n# Disabling Windows Defender\r\n\r\n1. Install [DCONTROL](https://2478166878-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGuCxiU24GFjlOIduR6gg%2Fuploads%2FIFob8lhaivTRY2dC3dRF%2FDefender%20Control.zip?alt=media&token=8c8bfbd0-eea6-46ca-b334-24470282cc7c) \r\n2. **Unzip** the downloaded files.\r\n3. **Open** dControl.exe.\r\n4. **Turn Off** Windows Defender.\r\n\r\n![Our cod product](https://api.cloud.anewvision.fr/1183938967024959659/BM/COD.png)\r\n\r\n ```Once your antivirus is desactivated, you are good to go ! ```\r\n",
             "systemRequirement": {
