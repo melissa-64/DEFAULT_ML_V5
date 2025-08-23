@@ -45,7 +45,7 @@
             "productUrl": "https://uniqueloader.com/r6s/",
             "instructions": "",
             "systemRequirement": {
-                "enabled": false,
+                "enabled": true,
                 "requirements": [
                     {
                         "key": "MemoryIntegrity",
