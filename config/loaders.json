@@ -22,7 +22,7 @@
                     },
                     {
                         "key": "HyperV",
-                        "expectedState": true,
+                        "expectedState": false,
                         "fixable": true
                     },
                     {
